@@ -84,4 +84,5 @@ printer = prettytable.get_string()
 with open('sports_table.txt', 'w') as f:
     f.write(printer)
 
+print(prettytable)
 
