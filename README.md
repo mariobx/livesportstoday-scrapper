@@ -15,5 +15,3 @@ This Python script scrapes live sports data from the [Live Sports on TV](https:/
 3. **Run The Script**:
    ```bash
    python3 livesportstoday.py
-
-
