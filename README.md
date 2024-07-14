@@ -12,6 +12,7 @@ This Python script scrapes live sports data from the [Live Sports on TV](https:/
    ```bash
    python3 -m venv .venv
    source .venv/bin/activate
+   pip install -r requirements.txt
 3. **Run The Script**:
    ```bash
    python3 livesportstoday.py
